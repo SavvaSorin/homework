@@ -1,0 +1,26 @@
+.brown {
+    background: rgb(68, 36, 36);
+}
+
+.wht {
+    color: white;
+}
+.spn {
+    color: blueviolet;
+}
+
+.block{
+    color: white;
+    background: red;
+    width: 100px;
+    height: 100px;
+}
+
+.block2 {
+    width: 300px;
+    background: rgb(212, 115, 241);
+}
+.span {
+    color: white;
+    background-color: rgb(173, 60, 207);
+}
