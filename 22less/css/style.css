@@ -1,0 +1,25 @@
+.header {
+    height: 60px;
+    background: rgb(235, 169, 89);
+}
+
+.img {
+    width: 250px;
+}
+
+.citata{
+    background: rgb(252, 234, 196);
+}
+
+.footer {
+    color: white;
+    background: rgb(148, 73, 148);
+    height: 300px;
+}
+
+footer a {
+    color: #fff
+}
+a {
+    color: #000;
+}
